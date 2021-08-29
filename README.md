@@ -1,6 +1,5 @@
 # Semaphores
-Implementing several page replacement algorithms and Evaluating several page replacement algorithms.
-
+Familiarizing with concurrent programming and Handling races, synchronization and deadlock conditions.
 In main function
 1-declaration of threads
 2-initialize semaphores
